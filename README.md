@@ -100,8 +100,10 @@ The Power BI dashboard provides:
    git clone <repository-url>
 
 2. Install required libraries:
-
-pip install pandas numpy matplotlib seaborn
+- pandas
+- numpy
+- matplotlib
+- seaborn
 
 3. Open and run the Jupyter Notebook.
 
