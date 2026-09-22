@@ -1,11 +1,11 @@
-# 🛍️ Customer Behavior & Sales Analytics
+# Customer Behavior & Sales Analytics
 
 > Understanding *who* buys, *why* they buy, and *what* drives repeat purchases — an end-to-end analysis of customer shopping behavior.
 > Python for cleaning & EDA → PostgreSQL for business querying → Power BI for an interactive multi-page dashboard.
 
 ---
 
-## 📌 Overview
+## Overview
 
 This project walks through a complete data analytics workflow on a real customer shopping behavior dataset — from raw data to business-ready dashboards. The goal was to understand purchasing patterns, customer segments, and what drives revenue, then present those findings the way a business stakeholder would actually want to see them.
 
